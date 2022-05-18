@@ -3,5 +3,4 @@ public class BonusMilesService {
         int miles = price / 20;
         return miles;
     }
-
 }
